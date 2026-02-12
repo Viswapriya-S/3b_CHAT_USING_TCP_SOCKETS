@@ -43,6 +43,3 @@ CLIENT
 ## RESULT
 Thus, the python program for creating chat using TCP Sockets Links was successfully
 created and executed.
-
-Thus, the python program for creating Chat using TCP Sockets Links was successfully 
-created and executed.
